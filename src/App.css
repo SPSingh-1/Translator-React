@@ -1,0 +1,38 @@
+.App{
+  text-align: center;
+  border: 2px solid black;
+  font-size: 30px;
+  background-color: #f1f1f1;
+}
+div{
+  padding: 10px;
+}
+select{
+  padding: 5px;
+}
+button{
+  background-color: rgb(100, 98, 135);
+  margin: 14px;
+  padding: 2px;
+  font-size: medium;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.Translate{
+  width: 50%;
+}
+textarea{
+  margin: 5px;
+}
+#itext{
+  margin-right: 2rem;
+}
+#otext{
+  margin-left: 2rem;
+}
+select{
+  margin-right: 60px;
+}
+::placeholder{
+  font-size: larger;
+}
